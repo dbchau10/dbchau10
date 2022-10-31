@@ -5,7 +5,7 @@
 <li> Currently in my 3rd year in Univerisy of Science, HCM </li>
 <li> Study Information Technology, major in Software Engineering </li>
 <li> Hard-working and creative </li>
-<li> Would love to experinces more </li>
+<li> Would love to experince more </li>
 <li> One Piece fan :heart: </li>
 </ul>
 
